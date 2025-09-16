@@ -22,7 +22,7 @@ The data was sourced from Kaggle.com and contains:
 
 ## Project Structure
 ```
-global-tech-layoffs/
+extrovert-introvert-behavior/
 │
 ├── data/                
 │   └── personality_dataset.csv                      # Original dataset
