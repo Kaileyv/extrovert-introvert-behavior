@@ -25,20 +25,23 @@ The data was sourced from Kaggle.com and contains:
 global-tech-layoffs/
 │
 ├── data/                
-│   └── personality_dataset.csv                   # Original dataset
+│   └── personality_dataset.csv                      # Original dataset
 │
 ├── sql/                  
-│   └── personality.sql                           # SQL cleaning and queries  
+│   └── personality.sql                              # SQL cleaning and queries  
 │
 ├── tableau/               
-│   └── Extrovert Introvert Behavior.twbx         # Tableau dashboard
+│   └── Extrovert Introvert Behavior.twbx            # Tableau dashboard
 │
-└── README.md                                     # Project overview
+├── images/               
+│   └── extrovert_introvert_behavior_dashboard.png   # Tableau dashboard image
+│
+└── README.md                                        # Project overview
 ```
 ## Tableau Dashboard
 [View Dashboard on Tableau Public](https://public.tableau.com/views/ExtrovertIntrovertBehavior/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![](https://github.com/Kaileyv/extrovert-introvert-behavior/blob/main/extrovert_introvert_behavior_dashboard.png)
+![](https://github.com/Kaileyv/extrovert-introvert-behavior/blob/main/images/extrovert_introvert_behavior_dashboard.png)
 
 ## Key Insights
 * _**Extroverts**_ are more likely to attend social events, post on social media, go outside, and have bigger social circles compared to introverts
