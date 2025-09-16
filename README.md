@@ -36,6 +36,8 @@ extrovert-introvert-behavior/
 ├── images/               
 │   └── extrovert_introvert_behavior_dashboard.png   # Tableau dashboard image
 │
+├── .gitattributes                                   # SQL repository language 
+│
 └── README.md                                        # Project overview
 ```
 ## Tableau Dashboard
